@@ -12,6 +12,7 @@ Contributions Welcome! If you know of a meetup or user group that isn't listed, 
 | [Toronto JS](https://torontojs.com/) | A group for JavaScript developers in the GTA, covering frontend and backend topics. |
 | [Go TO](https://www.meetup.com/go-toronto/) | A meetup for Go (Golang) enthusiasts in Toronto, featuring discussions on Go development and best practices. |
 | [Toronto Java Users Group](https://www.meetup.com/toronto-java-users-group/) | A community for Java developers to share knowledge and explore new Java-related technologies. |
+| [K8SUG Canada](https://www.meetup.com/k8s-ca/) | A Kubernetes user group in Canada that brings together cloud-native enthusiasts to share knowledge and best practices. |
 | [AI / Drupal Toronto](https://www.meetup.com/drupalto/) | A group focused on AI and Drupal development in Toronto, hosting technical talks and networking sessions. |
 | [Toronto Tech Stack Exchange](https://www.meetup.com/toronto-tech-stack-exchange/) | A community for discussing and learning about various tech stacks used in tech industry. |
 
