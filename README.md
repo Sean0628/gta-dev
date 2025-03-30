@@ -1,4 +1,12 @@
 # GTA Tech Meetups & User Groups
+
+This repository is now archived. The latest and most updated list of GTA tech meetups and user groups is now available on our new web app:
+
+👉 [GTA Tech Meetups](https://gta-dev-web.vercel.app/)
+
+---
+
+
 This repository aims to list all tech-related meetups, user groups, and similar communities happening in the Greater Toronto Area (GTA).
 
 Contributions Welcome! If you know of a meetup or user group that isn't listed, feel free to open a PR and add it.
